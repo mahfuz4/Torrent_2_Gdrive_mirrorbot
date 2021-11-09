@@ -204,4 +204,4 @@ def main():
 
 app.start()
 main()
-idle()
+# idle()
